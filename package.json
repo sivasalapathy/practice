@@ -1,0 +1,22 @@
+{
+  "name": "siva",
+  "version": "1.0.0",
+  "description": "demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon "
+  },
+  "author": "siva",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.6",
+    "sequelize": "^6.3.5"
+  },
+  "keywords": [
+    "asap"
+  ]
+}
